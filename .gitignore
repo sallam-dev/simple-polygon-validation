@@ -1,4 +1,5 @@
 # Logs
+*.geojson
 logs
 *.log
 npm-debug.log*
