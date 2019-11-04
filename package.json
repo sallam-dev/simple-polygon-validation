@@ -1,0 +1,16 @@
+{
+  "name": "simple-polygon-validation",
+  "version": "1.0.0",
+  "description": "validate geojson feature collection to be simple polygons with tag and etag properties",
+  "main": "index.js",
+  "repository": "https://github.com/sallamx99/simple-polygon-validation.git",
+  "author": "Mohamed Sallam <sallamx99@gmail.com>",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "simplepolygon": "^1.2.3"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0"
+  }
+}
